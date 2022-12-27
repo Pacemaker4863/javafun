@@ -1,3 +1,9 @@
 = Java 17, Fundamentals
 
-Beginning Java 17 Fundamentals: Object-Oriented Programming in Java 17
+*Beginning Java 17 Fundamentals: Object-Oriented Programming in Java 17*
+
+_Kishori Sharan, Adam L. Davis_
+
+_Published by Apress_
+
+*1. Chapter 3*
